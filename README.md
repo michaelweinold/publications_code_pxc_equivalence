@@ -2,7 +2,7 @@
 
 This repository contains the software supplement for the publication:
 
-> Weinold, M. and Majeau-Bettez, G. (2025). Critical Analysis of the Path-Exchange Method for Hybrid Life-Cycle Assessment. Journal of Industrial Ecology. doi: [10.XXXXX]()
+> Weinold, M. and Majeau-Bettez, G. (2025). Critical Analysis of the Path-Exchange Method for Hybrid Life-Cycle Assessment. Journal of Industrial Ecology. doi: [10.1007/s44498-026-00023-1](https://doi.org/10.1007/s44498-026-00023-1)
 
 It is also available at the Zenodo repository:
 
